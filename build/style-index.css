@@ -1,1 +1,1 @@
-.blurred{filter:blur(8px);transform:translateZ(0);transition:filter 1s cubic-bezier(.165,.84,.44,1)}.blurred.unblurred{filter:blur(0);overflow:hidden}
+.blurred{filter:blur(8px);transform:translateZ(0);transition:filter 1s cubic-bezier(.165,.84,.44,1)}.blurred.unblurred{filter:blur(0)}
